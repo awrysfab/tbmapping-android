@@ -6,4 +6,15 @@
         Penyakit ini ditularkan dari percikan ludah yang keluar penderita TBC, ketika berbicara, batuk, atau bersin.
         Penyakit ini lebih rentan terkena pada seseorang yang kekebalan tubuhnya rendah, misalnya penderita HIV.
     </string>
+    <string name="gejala_tbc">
+        Gejala-gejala TBC (tuberkulosis) yang muncul dapat berupa: <br></br>
+        1. Batuk yang berlangsung lama. <br></br>
+        2. Batuk mengeluarkan darah. <br></br>
+        3. Berkeringat pada malam hari.<br></br>
+        4. Penurunan berat badan.<br></br>
+        5. Demam dan menggigil.<br></br>
+        6. Lemas.<br></br>
+        7. Nyeri dada saat bernapas atau batuk.<br></br>
+        8. Tidak nafsu makan.
+    </string>
 </resources>
