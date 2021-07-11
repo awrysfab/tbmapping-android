@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TBMapping">
-        <activity android:name=".PengobatanActivity"></activity>
+        <activity android:name=".PencegahanActivity"></activity>
+        <activity android:name=".PengobatanActivity" />
         <activity android:name=".GejalaActivity" />
         <activity android:name=".PengenalanActivity" />
         <activity android:name=".FaskesActivity" />
