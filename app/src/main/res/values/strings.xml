@@ -17,4 +17,10 @@
         7. Nyeri dada saat bernapas atau batuk.<br></br>
         8. Tidak nafsu makan.
     </string>
+    <string name="pengobatan_tbc">
+        TBC (Tuberkulosis) yang juga dikenal dengan TB adalah penyakit paru-paru akibat kuman Mycobacterium tuberculosis.
+        Kuman TBC tidak hanya menyerang paru-paru, tetapi juga bisa menyerang tulang, usus, atau kelenjar.
+        Penyakit ini ditularkan dari percikan ludah yang keluar penderita TBC, ketika berbicara, batuk, atau bersin.
+        Penyakit ini lebih rentan terkena pada seseorang yang kekebalan tubuhnya rendah, misalnya penderita HIV.
+    </string>
 </resources>
