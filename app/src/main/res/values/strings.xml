@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">TB Mapping</string>
+    <string name="pengenalan_tbc">
+        TBC (Tuberkulosis) yang juga dikenal dengan TB adalah penyakit paru-paru akibat kuman Mycobacterium tuberculosis.
+        Kuman TBC tidak hanya menyerang paru-paru, tetapi juga bisa menyerang tulang, usus, atau kelenjar.
+        Penyakit ini ditularkan dari percikan ludah yang keluar penderita TBC, ketika berbicara, batuk, atau bersin.
+        Penyakit ini lebih rentan terkena pada seseorang yang kekebalan tubuhnya rendah, misalnya penderita HIV.
+    </string>
+    <string name="gejala_tbc">
+        Gejala-gejala TBC (tuberkulosis) yang muncul dapat berupa: <br/>
+        1. Batuk yang berlangsung lama. <br/>
+        2. Batuk mengeluarkan darah. <br/>
+        3. Berkeringat pada malam hari.<br/>
+        4. Penurunan berat badan.<br/>
+        5. Demam dan menggigil.<br/>
+        6. Lemas.<br/>
+        7. Nyeri dada saat bernapas atau batuk.<br/>
+        8. Tidak nafsu makan.
+    </string>
+    <string name="pencegahan_tbc">
+        TBC dapat dicegah dengan pemberian vaksin, yang disarankan dilakukan sebelum bayi berusia 2 bulan.
+        Selain itu, pencegahan juga dapat dilakukan dengan cara: <br/><br/>
+        1. Mengenakan masker saat berada di tempat ramai. <br/>
+        2. Tutupi mulut saat bersin, batuk, dan tertawa. <br/>
+        3. Tidak membuang dahak atau meludah sembarangan.
+    </string>
+    <string name="pengobatan_tbc">
+        TBC (Tuberkulosis) yang juga dikenal dengan TB adalah penyakit paru-paru akibat kuman Mycobacterium tuberculosis.
+        Kuman TBC tidak hanya menyerang paru-paru, tetapi juga bisa menyerang tulang, usus, atau kelenjar.
+        Penyakit ini ditularkan dari percikan ludah yang keluar penderita TBC, ketika berbicara, batuk, atau bersin.
+        Penyakit ini lebih rentan terkena pada seseorang yang kekebalan tubuhnya rendah, misalnya penderita HIV.
+    </string>
 </resources>
